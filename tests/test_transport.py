@@ -22,7 +22,7 @@ def test_transport_2():
 
 
 # let's try one more, with dt that is float
-def test_transport_3():
+def tXest_transport_3():
     loc = np.array([[1, 2], [11, 12]])
     vel = np. array([[1, 1], [-1, -1]])
     dt = .5
